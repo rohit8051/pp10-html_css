@@ -1,0 +1,23 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmlread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit8051/pp10-html_css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit8051/pp10-html_css/issues"
+  },
+  "homepage": "https://github.com/rohit8051/pp10-html_css#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6"
+  }
+}
